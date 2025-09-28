@@ -18,6 +18,12 @@ The dataset contains restaurant information from Indian cities, including rating
 
 ---
 
+## 📝 Interactive Notebook
+You can view the full interactive notebook with visualizations on Kaggle:
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/amangarg08/zomato-restaurants-eda)
+
+---
+
 ## 🎯 Objectives
 1. Understand the structure of the dataset and clean missing/inconsistent values  
 2. Explore univariate, bivariate, and multivariate relationships (ratings, cuisines, costs, establishments)  
@@ -74,7 +80,7 @@ The dataset contains restaurant data from 99 cities in India including ratings, 
    - Restaurant Chains and Outlets count  
    - Top Restaurant Chains (by number of outlets)  
    - Number of restaurants (by establishment type / city / cuisine / price range / highlights)  
-   - Average cost for two distribution  
+   - Average cost for two Person distribution  
    - Ratings distribution  
    - WordCloud of Top Highlights Words  
    - Top restaurant chains (by average rating)  
