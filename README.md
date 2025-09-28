@@ -8,16 +8,6 @@ Exploratory Data Analysis (EDA) and Hypothesis Testing on Zomato restaurants dat
 
 ---
 
-## 📊 Dataset
-The dataset contains restaurant information from Indian cities, including ratings, cuisines, costs, establishments, and customer engagement.
-
-- **Source**: [Zomato Restaurants in India Dataset on Kaggle](https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india)  
-- **Size**: ~115 MB  
-- **Note**: Due to GitHub file size limits, the full dataset is hosted on Kaggle.  
-- **Cleaned Dataset** is included in this repository for quick testing.
-
----
-
 ## 📝 Interactive Notebook
 You can view the full interactive notebook with visualizations on Kaggle:
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/amangarg08/zomato-restaurants-eda)
